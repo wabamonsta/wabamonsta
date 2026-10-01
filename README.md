@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://jermainebyfield.dev/assets/headshot.png" width="140" alt="Jermaine Byfield" />
+<!-- <img src="https://jermainebyfield.dev/assets/headshot.png" width="140" alt="Jermaine Byfield" /> -->
 
 <sub>FULL-STACK ENGINEER · CLOUD · SALESFORCE</sub>
 
