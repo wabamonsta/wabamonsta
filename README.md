@@ -1,14 +1,100 @@
-<h1 align="center">Hi 👋, I'm Jermaine Byfield</h1>
-<h3 align="center">A passionate Frontend /Backend developer from Jamaica</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wabamonsta&label=Profile%20views&color=0e75b6&style=flat" alt="wabamonsta" /> </p>
+<img src="https://jermainebyfield.dev/assets/headshot.png" width="140" alt="Jermaine Byfield" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wabamonsta" alt="wabamonsta" /></a> </p>
+<sub>FULL-STACK ENGINEER · CLOUD · SALESFORCE</sub>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wabamonsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wabamonsta" height="30" width="40" /></a>
-</p>
+# Jermaine Byfield
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<a href="https://jermainebyfield.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=2F6BFF&center=true&vCenter=true&width=520&lines=Full-stack+web+%26+mobile+products;Cloud+architecture+on+AWS;AI+%2F+LLM-powered+automation;Certified+Salesforce+developer" alt="Typing intro" />
+</a>
+
+Senior software engineer with **15+ years** building **full-stack web & mobile** products, the cloud they run on, and **AI / LLM-powered automation**, with deep Salesforce expertise on the side.
+
+<img src="https://img.shields.io/badge/Salesforce-Platform_Developer_I-2f6bff?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce-App_Builder-2f6bff?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_to-remote_roles-1f2937?style=flat-square&labelColor=0d1117&color=22c55e" />
+
+<a href="mailto:mrbyfield@gmail.com"><img src="https://img.shields.io/badge/Email_me-0d1117?style=for-the-badge&logo=gmail&logoColor=9fb0cc" /></a>
+<a href="https://linkedin.com/in/jermainebyfield"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9fb0cc" /></a>
+<a href="https://jermainebyfield.dev"><img src="https://img.shields.io/badge/jermainebyfield.dev-2f6bff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://twitter.com/wabamonsta"><img src="https://img.shields.io/badge/@wabamonsta-0d1117?style=for-the-badge&logo=x&logoColor=9fb0cc" /></a>
+
+</div>
+
+<br />
+
+### `01 /` ENGINEERING
+**Full-stack, end to end. From data model to interface.**
+
+APIs and services on the back end, modern reactive UIs on the front, all running on cloud infrastructure I architect and automate myself.
+
+| | |
+|---|---|
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,express,mysql,postgres,mongodb,redis&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,gatsby,html,css,wordpress&theme=dark" /> |
+| **Cloud / DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,githubactions,linux,bash&theme=dark" /> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,figma,ps,ai&theme=dark" /> |
+
+<sub>Testing & practices: unit testing · TDD · CI quality gates · PR validation · Agile / Scrum · Jira</sub>
+
+<br />
+
+### `02 /` CERTIFIED SPECIALTY
+**Salesforce, end to end.**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="48" align="left" />
+
+Apex to Lightning Web Components, Flow automation to API integration, with required test coverage throughout. Platform Developer I and App Builder certified since 2020.
+
+<br clear="left" />
+
+<br />
+
+### `03 /` SELECTED WORK
+**Projects with measurable impact.**
+
+| Impact | Project | What I did |
+|:---:|---|---|
+| **75x** | **Spice Mas Grenada** · AWS streaming platform | Took a platform that fell over above 200 concurrent viewers and re-architected it on AWS to handle 15,000+, while cutting costs. |
+| **-76%** | **Ramble Media** · AWS infrastructure redesign | Audited and rebuilt the environment, taking monthly cloud spend from $5,000 to $1,200 with no loss in performance. |
+| **10x** | **Jamaica Automobile Association** · Salesforce onboarding | Fully automated client onboarding with Flows, triggers and auto-generated Membership IDs. |
+| **Global** | **UNESCO** · Multilingual content platform | Drupal + GatsbyJS publishing platform for localised content across regions. |
+| **Payments** | **Payload.com** · WordPress gateway plugin | Built plugin functionality letting merchants embed Payload payment flows in WordPress stores. |
+
+<br />
+
+### `04 /` AI & AUTOMATION
+<img src="https://cdn.simpleicons.org/claude" width="40" align="left" />
+
+Integrating the **Anthropic Claude API** into client products and CRM workflows, building agentic and RAG pipelines that cut repetitive manual work by an estimated **40%**.
+
+<br clear="left" />
+
+`LLM integration` `RAG` `Agentic workflows` `Prompt engineering` `Claude Code`
+
+<br />
+
+### `05 /` FROM GITHUB
+**Recently shipped.**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wabamonsta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2f6bff&icon_color=2f6bff&text_color=9fb0cc&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabamonsta&layout=compact&hide_border=true&bg_color=0d1117&title_color=2f6bff&text_color=9fb0cc" height="165" />
+
+<img src="https://ghchart.rshah.org/2f6bff/wabamonsta" alt="Contribution activity" width="100%" />
+
+</div>
+
+<br />
+
+### `06 /` CONTACT
+**Let's build something reliable.**
+
+Available for remote Salesforce, full-stack and AI automation engagements. Email is the fastest way to reach me: **[mrbyfield@gmail.com](mailto:mrbyfield@gmail.com)**
+
+<sub>Also building with a team of certified engineers at <a href="https://wabamedia.co">Wabamedia</a>.</sub>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=wabamonsta&label=profile%20views&color=2f6bff&style=flat-square" /></p>
